@@ -6,6 +6,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/priyanshu172004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -13,6 +14,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/priyanshu172004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
