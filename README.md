@@ -20,6 +20,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
