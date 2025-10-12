@@ -27,6 +27,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0228-summary-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
+| [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -58,6 +59,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshu172004/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
