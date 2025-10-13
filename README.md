@@ -22,6 +22,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/priyanshu172004/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshu172004/LeetCode/tree/master/0057-insert-interval) |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
@@ -61,6 +62,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/priyanshu172004/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshu172004/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
