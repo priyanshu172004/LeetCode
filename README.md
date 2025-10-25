@@ -81,4 +81,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
