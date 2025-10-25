@@ -1,6 +1,18 @@
 class Solution {
     public int totalMoney(int n) {
-        int r=n/7,c=n%7;
-        return r*(c+28)+(r*(r-1))/2*7+(c*(c+1))/2;
+        int start = 0;
+        int count = 0;
+        int sum = 0;
+        for(int i = 1; i <= n; i++){
+            if(count == 7){
+                start = i/7 + 1;
+                count = 0;
+            }else{
+                start++;
+            }
+            sum += start;
+            count++;
+        }
+        return sum;
     }
 }
