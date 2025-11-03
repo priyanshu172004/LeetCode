@@ -1,22 +1,20 @@
 class Solution {
-    public int minCost(String colors, int[] needed_time) {
-        int n_time = 0;
-        int n = colors.length();
-        int curr_max = 0;
+    public int minCost(String colors, int[] neededTime) {
+        int time = 0;
+        int max = 0;
         
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < colors.length(); i++) {
             if (i == 0 || colors.charAt(i) != colors.charAt(i - 1)) {
-                curr_max = needed_time[i];
+                max = neededTime[i];
             } else {
-                if (needed_time[i] > curr_max) {
-                    n_time += curr_max; 
-                    curr_max = needed_time[i]; 
+                if (neededTime[i] > max) {
+                    time += max; 
+                    max = neededTime[i]; 
                 } else {
-                    n_time += needed_time[i]; 
+                    time += neededTime[i]; 
                 }
             }
         }
-        
-        return n_time;
+        return time;
     }
 }
