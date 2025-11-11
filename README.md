@@ -32,6 +32,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0057-insert-interval](https://github.com/priyanshu172004/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
@@ -114,8 +115,10 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
