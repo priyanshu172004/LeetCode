@@ -38,6 +38,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0074-search-a-2d-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
