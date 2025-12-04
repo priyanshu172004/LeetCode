@@ -8,10 +8,12 @@ class Solution {
             if(sum > max){
                 max = sum;
             }
-
             if(sum < 0){
                 sum = 0;
             }
+        }
+        if(max <= 0){
+            return max;
         }
         return max;
     }
