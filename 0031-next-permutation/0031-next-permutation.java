@@ -2,9 +2,9 @@ class Solution {
     public void nextPermutation(int[] nums) {
         int n = nums.length;
         int idx = -1;
-        for(int i = n - 2; i >= 0; i--){
-            if(nums[i] < nums[i + 1]){
-                idx = i;
+        for(int i = n - 1; i >= 1; i--){
+            if(nums[i] > nums[i - 1]){
+                idx = i - 1;
                 break;
             }
         }
