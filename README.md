@@ -35,6 +35,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0035-search-insert-position](https://github.com/priyanshu172004/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/priyanshu172004/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/priyanshu172004/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshu172004/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -67,6 +68,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
@@ -145,4 +147,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
