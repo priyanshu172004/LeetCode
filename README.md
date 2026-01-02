@@ -55,6 +55,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -83,6 +84,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
