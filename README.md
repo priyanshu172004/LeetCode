@@ -50,6 +50,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -81,6 +82,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu172004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
