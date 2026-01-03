@@ -58,6 +58,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -89,6 +90,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -117,12 +119,14 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+| [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/priyanshu172004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
