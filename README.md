@@ -21,6 +21,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu172004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/priyanshu172004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/priyanshu172004/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/priyanshu172004/LeetCode/tree/master/0443-string-compression) |
@@ -87,6 +88,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu172004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/priyanshu172004/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
