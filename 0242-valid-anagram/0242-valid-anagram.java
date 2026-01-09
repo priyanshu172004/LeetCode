@@ -3,16 +3,23 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
-        HashMap<Character, Integer> map = new HashMap<>();
+        HashMap<Character, Integer> map1 = new HashMap<>();
+        HashMap<Character, Integer> map2 = new HashMap<>();
         for(char ch : s.toCharArray()){
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            map1.put(ch, map1.getOrDefault(ch, 0) + 1);
         }
         for(char ch : t.toCharArray()){
-            if(!map.containsKey(ch)){
+            map2.put(ch, map2.getOrDefault(ch, 0) + 1);
+        }
+        for (Map.Entry<Character, Integer> entry : map1.entrySet()) {
+            char key = entry.getKey();
+            int value = entry.getValue();
+
+            if(!map2.containsKey(key) || map2.get(key) != value){
                 return false;
             }
-            map.put(ch, map.get(ch) - 1);
         }
+        
         return true;
     }
 }
