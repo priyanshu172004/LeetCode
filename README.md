@@ -19,6 +19,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu172004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/priyanshu172004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/priyanshu172004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priyanshu172004/LeetCode/tree/master/0242-valid-anagram) |
@@ -186,6 +187,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyanshu172004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Divide and Conquer
