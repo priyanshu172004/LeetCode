@@ -22,6 +22,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0020-valid-parentheses](https://github.com/priyanshu172004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/priyanshu172004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/priyanshu172004/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/priyanshu172004/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
@@ -154,6 +155,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -166,6 +168,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -188,6 +191,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyanshu172004/LeetCode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Divide and Conquer
