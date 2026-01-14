@@ -16,13 +16,12 @@ class Solution {
                 }
             }
         }
-        int[] res = new int[stack.size()];
-        int i = stack.size() - 1;
+        int[] result = new int[stack.size()];
+        int size = stack.size() - 1;
         while(!stack.isEmpty()){
-            res[i] = stack.pop();
-            i--;
+            result[size] = stack.pop();
+            size--;
         }
-
-        return res;
+        return result;
     }
 }
