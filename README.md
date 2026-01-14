@@ -60,6 +60,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -139,6 +140,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/priyanshu172004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -184,6 +186,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Divide and Conquer
 |  |
