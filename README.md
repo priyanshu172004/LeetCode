@@ -35,6 +35,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/priyanshu172004/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/priyanshu172004/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -91,6 +92,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu172004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0205-isomorphic-strings) |
