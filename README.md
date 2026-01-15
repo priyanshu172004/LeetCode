@@ -217,6 +217,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -227,11 +228,13 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Sliding Window
 |  |
 | ------- |
