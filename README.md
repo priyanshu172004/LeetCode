@@ -168,6 +168,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -242,4 +243,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshu172004/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
