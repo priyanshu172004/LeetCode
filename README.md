@@ -20,6 +20,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu172004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/priyanshu172004/LeetCode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/priyanshu172004/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/priyanshu172004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
@@ -88,6 +89,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/priyanshu172004/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu172004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
