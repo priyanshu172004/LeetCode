@@ -145,6 +145,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0074-search-a-2d-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshu172004/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -203,6 +204,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -255,6 +258,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
