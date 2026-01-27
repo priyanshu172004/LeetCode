@@ -233,6 +233,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -240,6 +241,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
@@ -252,6 +254,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -268,4 +271,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu172004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
