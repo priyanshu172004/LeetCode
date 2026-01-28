@@ -14,20 +14,17 @@
  * }
  */
 class Solution {
-    PriorityQueue<Integer> pq = new PriorityQueue<>();
     public int kthSmallest(TreeNode root, int k) {
-        traverse(root);
-        for(int i = 1; i < k; i++){
-            pq.poll();
-        }
-        return pq.poll();
+        List<Integer> result = new ArrayList<>();
+        inorderTraversal(root, k, result);
+        return result.get(k - 1);
     }
-    public void traverse(TreeNode root){
+    public void inorderTraversal(TreeNode root, int k, List<Integer> result){
         if(root == null){
             return;
         }
-        pq.add(root.val);
-        traverse(root.left);
-        traverse(root.right);
+        inorderTraversal(root.left, k, result);
+        result.add(root.val);
+        inorderTraversal(root.right, k, result);
     }
 }
