@@ -182,6 +182,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/priyanshu172004/LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
