@@ -3,15 +3,15 @@ class Solution {
         if(x < 0){
             return false;
         }
-        int sum = 0;
-        int original = x;
-        while(x != 0){
-            int digit = x % 10;
-            sum = sum * 10 + digit;
-            x /= 10;
-        }
-        if(sum != original){
-            return false;
+        String str = String.valueOf(x);
+        int left = 0;
+        int right = str.length() - 1;
+        while(left < right){
+            if(str.charAt(left) != str.charAt(right)){
+                return false;
+            }
+            left++;
+            right--;
         }
         return true;
     }
