@@ -21,7 +21,6 @@ class Solution {
                 }
                 map.put(ch, map.get(ch) - 1);
             }
-
             while(count == needed){
                 if(minLen > right - left + 1){
                     minLen = right - left + 1;
