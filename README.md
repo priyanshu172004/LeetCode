@@ -26,6 +26,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0072-edit-distance](https://github.com/priyanshu172004/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/priyanshu172004/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/priyanshu172004/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/priyanshu172004/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/priyanshu172004/LeetCode/tree/master/0242-valid-anagram) |
@@ -106,6 +107,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0072-edit-distance](https://github.com/priyanshu172004/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu172004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/priyanshu172004/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
@@ -217,6 +219,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0051-n-queens](https://github.com/priyanshu172004/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/priyanshu172004/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
