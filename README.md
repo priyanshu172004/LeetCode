@@ -268,6 +268,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/priyanshu172004/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -279,6 +280,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu172004/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/priyanshu172004/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/priyanshu172004/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Sliding Window
 |  |
 | ------- |
