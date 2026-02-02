@@ -269,6 +269,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/priyanshu172004/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +282,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/priyanshu172004/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/priyanshu172004/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,4 +324,5 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
