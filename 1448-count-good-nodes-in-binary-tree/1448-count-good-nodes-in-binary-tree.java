@@ -23,12 +23,12 @@ class Solution {
         }
         int count = 0;
         if(root.val >= max){
-            count = 1;
+            count += 1;
         }
         max = Math.max(max, root.val);
         count += dfs(root.left, max);
         count += dfs(root.right, max);
 
-        return max;
+        return count;
     }
 }
