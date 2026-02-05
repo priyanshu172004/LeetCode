@@ -90,6 +90,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [3379-transformed-array](https://github.com/priyanshu172004/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/priyanshu172004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -177,6 +178,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [3379-transformed-array](https://github.com/priyanshu172004/LeetCode/tree/master/3379-transformed-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/priyanshu172004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
