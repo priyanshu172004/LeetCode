@@ -7,6 +7,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu172004/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshu172004/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/priyanshu172004/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0001-two-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/priyanshu172004/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshu172004/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/priyanshu172004/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
