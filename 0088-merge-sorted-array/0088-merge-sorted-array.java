@@ -19,7 +19,7 @@ class Solution {
             result[k++] = nums2[j++];
         }
 
-        for(int p = 0; p < k; p++){
+        for(int p = 0; p < m+n; p++){
             nums1[p] = result[p];
         }
     }
