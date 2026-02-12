@@ -67,6 +67,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0049-group-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/priyanshu172004/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/priyanshu172004/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshu172004/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -120,6 +121,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/priyanshu172004/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/priyanshu172004/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
@@ -227,6 +229,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu172004/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/priyanshu172004/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Recursion
