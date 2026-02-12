@@ -81,6 +81,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu172004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/priyanshu172004/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -152,6 +153,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0076-minimum-window-substring](https://github.com/priyanshu172004/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu172004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/priyanshu172004/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -172,6 +174,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0049-group-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/priyanshu172004/LeetCode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -282,6 +285,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu172004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
@@ -295,6 +299,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Tree
