@@ -63,6 +63,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0037-sudoku-solver](https://github.com/priyanshu172004/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/priyanshu172004/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/priyanshu172004/LeetCode/tree/master/0051-n-queens) |
@@ -120,6 +121,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshu172004/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
@@ -229,6 +231,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu172004/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshu172004/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
