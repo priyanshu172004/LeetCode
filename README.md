@@ -126,6 +126,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0045-jump-game-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshu172004/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/priyanshu172004/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/priyanshu172004/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
@@ -225,6 +226,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0009-palindrome-number](https://github.com/priyanshu172004/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/priyanshu172004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/priyanshu172004/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
@@ -389,4 +391,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/priyanshu172004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/priyanshu172004/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
