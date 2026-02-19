@@ -1,11 +1,10 @@
 class Solution {
     public int findMinPath(List<List<Integer>> arr, int[][] dp, int n){
-        int N = arr.size();
         for(int j = 0; j < n; j++){
-            dp[N - 1][j] = arr.get(N - 1).get(j);
+            dp[n - 1][j] = arr.get(n - 1).get(j);
         }
-        for(int i = N - 2; i >= 0; i--){
-            for(int j = 0; j < i; j++){
+        for(int i = n - 2; i >= 0; i--){
+            for(int j = 0; j <= i; j++){
                 int down = arr.get(i).get(j) + dp[i + 1][j];
                 int diag = arr.get(i).get(j) + dp[i + 1][j + 1]; 
                 dp[i][j] = Math.min(down, diag);
