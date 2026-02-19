@@ -80,6 +80,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0088-merge-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu172004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu172004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -134,6 +135,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/priyanshu172004/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu172004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/priyanshu172004/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/priyanshu172004/LeetCode/tree/master/0198-house-robber) |
