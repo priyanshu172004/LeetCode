@@ -244,6 +244,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/priyanshu172004/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -288,6 +289,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyanshu172004/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/priyanshu172004/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/priyanshu172004/LeetCode/tree/master/0868-binary-gap) |
 ## Stack
 |  |
