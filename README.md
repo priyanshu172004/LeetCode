@@ -28,6 +28,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu172004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/priyanshu172004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/priyanshu172004/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/priyanshu172004/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/priyanshu172004/LeetCode/tree/master/0125-valid-palindrome) |
@@ -215,6 +216,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -241,6 +243,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0009-palindrome-number](https://github.com/priyanshu172004/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/priyanshu172004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/priyanshu172004/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
@@ -285,6 +288,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
