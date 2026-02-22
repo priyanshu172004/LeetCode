@@ -11,21 +11,13 @@ class Solution {
         return true;
     }
     public int countPrimeSetBits(int left, int right) {
-        int result = 0;
+        int count = 0;
         for(int num = left; num <= right; num++){
-            int n = num;
-            int count = 0;
-            while(n > 0){
-                int bit = n % 2;
-                if(bit == 1){
-                    count++;
-                }
-                n = n/2;
-            }
-            if(isPrime(count)){
-                result++;
+            int setBits = Integer.bitCount(num);
+            if(isPrime(setBits)){
+                count++;
             }
         }
-        return result;
+        return count;
     }
 }
