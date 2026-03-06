@@ -102,6 +102,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/priyanshu172004/LeetCode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/priyanshu172004/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -265,6 +266,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0055-jump-game](https://github.com/priyanshu172004/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/priyanshu172004/LeetCode/tree/master/0860-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Recursion
 |  |
