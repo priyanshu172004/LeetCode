@@ -107,6 +107,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -125,6 +126,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshu172004/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
