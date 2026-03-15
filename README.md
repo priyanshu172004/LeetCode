@@ -42,6 +42,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/priyanshu172004/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/priyanshu172004/LeetCode/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshu172004/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -152,6 +153,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/priyanshu172004/LeetCode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -268,6 +270,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0055-jump-game](https://github.com/priyanshu172004/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/priyanshu172004/LeetCode/tree/master/0860-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Recursion
@@ -314,6 +317,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu172004/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/priyanshu172004/LeetCode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
