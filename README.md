@@ -21,6 +21,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3379-transformed-array](https://github.com/priyanshu172004/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -232,6 +234,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3379-transformed-array](https://github.com/priyanshu172004/LeetCode/tree/master/3379-transformed-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/priyanshu172004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -335,6 +338,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
 | ------- |
