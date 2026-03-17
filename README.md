@@ -125,6 +125,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu172004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/priyanshu172004/LeetCode/tree/master/3731-find-missing-elements) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/priyanshu172004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
@@ -195,6 +196,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3713-longest-balanced-substring-i](https://github.com/priyanshu172004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu172004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/priyanshu172004/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [3731-find-missing-elements](https://github.com/priyanshu172004/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
