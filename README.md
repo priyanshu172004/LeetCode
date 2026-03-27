@@ -94,6 +94,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/priyanshu172004/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/priyanshu172004/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -260,6 +261,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0064-minimum-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/priyanshu172004/LeetCode/tree/master/0200-number-of-islands) |
 | [0741-cherry-pickup](https://github.com/priyanshu172004/LeetCode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -394,6 +396,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu172004/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu172004/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/priyanshu172004/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshu172004/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/priyanshu172004/LeetCode/tree/master/0547-number-of-provinces) |
@@ -440,12 +443,14 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu172004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/priyanshu172004/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyanshu172004/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/priyanshu172004/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/priyanshu172004/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/priyanshu172004/LeetCode/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
