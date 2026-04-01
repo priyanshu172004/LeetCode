@@ -14,7 +14,7 @@ public:
         if(head == NULL || head->next == NULL) return NULL;
         ListNode *slow = head;
         ListNode *fast = head;
-        ListNode *prev = slow;
+        ListNode *prev = NULL;
         while(fast != NULL && fast->next != NULL){
             prev = slow;
             slow = slow->next;
