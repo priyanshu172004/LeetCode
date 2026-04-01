@@ -314,6 +314,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshu172004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/priyanshu172004/LeetCode/tree/master/0394-decode-string) |
@@ -456,6 +457,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshu172004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/priyanshu172004/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
