@@ -457,6 +457,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyanshu172004/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Union-Find
 |  |
 | ------- |
