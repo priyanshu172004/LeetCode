@@ -287,6 +287,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/priyanshu172004/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/priyanshu172004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/priyanshu172004/LeetCode/tree/master/0062-unique-paths) |
@@ -316,6 +317,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshu172004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
@@ -462,6 +464,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshu172004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/priyanshu172004/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyanshu172004/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
