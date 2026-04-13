@@ -551,4 +551,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshu172004/LeetCode/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/priyanshu172004/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
