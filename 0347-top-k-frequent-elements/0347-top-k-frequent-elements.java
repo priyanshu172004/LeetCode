@@ -6,7 +6,7 @@ class Solution {
             map.put(i, map.getOrDefault(i, 0) + 1);
         }
         PriorityQueue<Integer> pq = new PriorityQueue<>(
-            (a, b) -> map.get(b) - map.get(a)
+            (a, b) -> Integer.compare(map.get(b), map.get(a))
         );
         for(int key : map.keySet()){
             pq.add(key);
