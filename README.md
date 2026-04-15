@@ -114,6 +114,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0238-product-of-array-except-self](https://github.com/priyanshu172004/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/priyanshu172004/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
@@ -215,6 +216,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0219-contains-duplicate-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/priyanshu172004/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/priyanshu172004/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -237,6 +239,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/priyanshu172004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshu172004/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
@@ -381,12 +384,14 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0053-maximum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu172004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -395,10 +400,12 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3713-longest-balanced-substring-i](https://github.com/priyanshu172004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -539,6 +546,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
