@@ -130,6 +130,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0518-coin-change-ii) |
+| [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/priyanshu172004/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
@@ -234,6 +235,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -523,6 +525,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0206-reverse-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -561,6 +564,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 ## Data Stream
 |  |
 | ------- |
@@ -606,4 +610,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/priyanshu172004/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/priyanshu172004/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/priyanshu172004/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
