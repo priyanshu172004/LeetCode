@@ -132,6 +132,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/priyanshu172004/LeetCode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
@@ -173,6 +174,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshu172004/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -241,6 +243,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
