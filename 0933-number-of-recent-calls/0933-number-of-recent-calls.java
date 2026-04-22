@@ -5,7 +5,7 @@ class RecentCounter {
     }
     public int ping(int t) {
         counter.offer(t);
-        while(counter.peek() < t - 3000){
+        while(!counter.isEmpty() && counter.peek() < t - 3000){
             counter.poll();
         }
         return counter.size();
