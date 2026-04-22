@@ -122,6 +122,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0219-contains-duplicate-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/priyanshu172004/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshu172004/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/priyanshu172004/LeetCode/tree/master/0322-coin-change) |
@@ -233,6 +234,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0217-contains-duplicate](https://github.com/priyanshu172004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/priyanshu172004/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/priyanshu172004/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
@@ -260,6 +262,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/priyanshu172004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshu172004/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
@@ -281,6 +284,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshu172004/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshu172004/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -331,6 +335,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/priyanshu172004/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -390,6 +395,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshu172004/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyanshu172004/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/priyanshu172004/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
