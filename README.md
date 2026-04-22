@@ -596,10 +596,12 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/priyanshu172004/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/priyanshu172004/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
 | ------- |
@@ -651,4 +653,5 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyanshu172004/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshu172004/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/priyanshu172004/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
