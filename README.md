@@ -29,6 +29,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0567-permutation-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -142,6 +143,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0741-cherry-pickup](https://github.com/priyanshu172004/LeetCode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/priyanshu172004/LeetCode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -273,6 +275,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -364,6 +367,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/priyanshu172004/LeetCode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/priyanshu172004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
