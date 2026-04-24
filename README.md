@@ -22,6 +22,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0143-reorder-list](https://github.com/priyanshu172004/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyanshu172004/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu172004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/priyanshu172004/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/priyanshu172004/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshu172004/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -123,6 +124,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu172004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/priyanshu172004/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/priyanshu172004/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyanshu172004/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0213-house-robber-ii) |
@@ -359,6 +361,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/priyanshu172004/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/priyanshu172004/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
