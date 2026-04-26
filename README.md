@@ -126,6 +126,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu172004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu172004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/priyanshu172004/LeetCode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/priyanshu172004/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/priyanshu172004/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu172004/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -375,6 +376,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/priyanshu172004/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/priyanshu172004/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/priyanshu172004/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
@@ -453,6 +455,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0143-reorder-list](https://github.com/priyanshu172004/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu172004/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu172004/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/priyanshu172004/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/priyanshu172004/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/priyanshu172004/LeetCode/tree/master/0225-implement-stack-using-queues) |
