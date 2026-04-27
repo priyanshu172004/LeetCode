@@ -160,6 +160,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/priyanshu172004/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/priyanshu172004/LeetCode/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/priyanshu172004/LeetCode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu172004/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/priyanshu172004/LeetCode/tree/master/0860-lemonade-change) |
@@ -464,6 +465,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/priyanshu172004/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/priyanshu172004/LeetCode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -672,6 +674,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshu172004/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/priyanshu172004/LeetCode/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
