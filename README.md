@@ -468,6 +468,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0682-baseball-game](https://github.com/priyanshu172004/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/priyanshu172004/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/priyanshu172004/LeetCode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -641,11 +642,13 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/priyanshu172004/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/priyanshu172004/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/priyanshu172004/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/priyanshu172004/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
@@ -677,6 +680,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshu172004/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/priyanshu172004/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/priyanshu172004/LeetCode/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
