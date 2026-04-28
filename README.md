@@ -71,6 +71,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0443-string-compression](https://github.com/priyanshu172004/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/priyanshu172004/LeetCode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/priyanshu172004/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -401,6 +402,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0135-candy](https://github.com/priyanshu172004/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/priyanshu172004/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/priyanshu172004/LeetCode/tree/master/0860-lemonade-change) |
@@ -703,6 +705,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyanshu172004/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshu172004/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/priyanshu172004/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/priyanshu172004/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## String Matching
 |  |
