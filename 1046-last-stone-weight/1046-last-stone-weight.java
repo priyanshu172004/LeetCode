@@ -10,6 +10,6 @@ class Solution {
             int remaining = first - second;
             pq.add(remaining);
         }
-        return pq.poll();
+        return pq.isEmpty() ? 0 : pq.poll();
     }
 }
