@@ -170,6 +170,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1046-last-stone-weight](https://github.com/priyanshu172004/LeetCode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -492,6 +493,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0658-find-k-closest-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/priyanshu172004/LeetCode/tree/master/1046-last-stone-weight) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
