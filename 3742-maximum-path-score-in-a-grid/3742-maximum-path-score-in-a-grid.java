@@ -31,8 +31,7 @@ class Solution {
     }
 
     public int maxPathScore(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
+        int m = grid.length, n = grid[0].length;
 
         dp = new Integer[m][n][k + 1];
         int ans = findScore(grid, 0, 0, k);
