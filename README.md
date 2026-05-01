@@ -151,6 +151,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0287-find-the-duplicate-number](https://github.com/priyanshu172004/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/priyanshu172004/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/priyanshu172004/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -237,6 +238,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0213-house-robber-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/priyanshu172004/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/priyanshu172004/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0518-coin-change-ii) |
@@ -394,6 +396,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0202-happy-number](https://github.com/priyanshu172004/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/priyanshu172004/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/priyanshu172004/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
