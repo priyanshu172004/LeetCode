@@ -10,7 +10,7 @@ class Solution {
         }
 
         k = k % n;
-        if(k == 0) return head;   // 🔥 FIX
+        if(k == 0) return head;
 
         ListNode helper = temp; 
         helper.next = head;     
