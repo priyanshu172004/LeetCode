@@ -56,6 +56,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu172004/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/priyanshu172004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/priyanshu172004/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
@@ -358,6 +359,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/priyanshu172004/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
@@ -395,6 +397,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0007-reverse-integer](https://github.com/priyanshu172004/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/priyanshu172004/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/priyanshu172004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/priyanshu172004/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/priyanshu172004/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/priyanshu172004/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/priyanshu172004/LeetCode/tree/master/0067-add-binary) |
