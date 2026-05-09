@@ -126,6 +126,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0075-sort-colors](https://github.com/priyanshu172004/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshu172004/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/priyanshu172004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/priyanshu172004/LeetCode/tree/master/0118-pascals-triangle) |
@@ -486,6 +487,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0020-valid-parentheses](https://github.com/priyanshu172004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/priyanshu172004/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/priyanshu172004/LeetCode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshu172004/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu172004/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/priyanshu172004/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu172004/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -718,6 +720,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshu172004/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshu172004/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/priyanshu172004/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/priyanshu172004/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/priyanshu172004/LeetCode/tree/master/0901-online-stock-span) |
