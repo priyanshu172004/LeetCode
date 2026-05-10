@@ -5,7 +5,7 @@ class Solution {
             if(a > 0){
                 stack.push(a);
             }else{
-                while(!stack.isEmpty() && stack.peek() > 0 && Math.abs(a) > stack.peek()){
+                while(!stack.isEmpty() && stack.peek() > 0 && stack.peek() < -a){
                     stack.pop();
                 }
                 if(stack.isEmpty() || stack.peek() < 0){
