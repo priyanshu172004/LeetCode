@@ -185,6 +185,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0973-k-closest-points-to-origin](https://github.com/priyanshu172004/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/priyanshu172004/LeetCode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/priyanshu172004/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
