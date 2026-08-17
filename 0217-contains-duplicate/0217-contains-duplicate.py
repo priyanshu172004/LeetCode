@@ -4,9 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        nums.sort()
-        for i in range(1, len(nums)):
-            if nums[i] == nums[i - 1]:
+        hashset = set()
+        for num in nums:
+            if num in hashset:
                 return True
+            hashset.add(num)
         return False
         
