@@ -5,5 +5,9 @@ class Solution(object):
         :rtype: int
         """
         new_str = s.strip()
-        result = s.split()[-1]
-        return len(result)
+        count = 0
+        for char in range(len(new_str) - 1, -1, -1):
+            if new_str[char] == " ":
+                break
+            count += 1
+        return count
