@@ -46,6 +46,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2833-furthest-point-from-origin](https://github.com/priyanshu172004/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/3110-score-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/priyanshu172004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -443,6 +445,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/priyanshu172004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Recursion
 |  |
