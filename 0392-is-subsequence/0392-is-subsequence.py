@@ -5,12 +5,8 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        indexI = 0
-        indexJ = 0
-        while indexI < len(s) and indexJ < len(t):
-            if s[indexI] == t[indexJ]:
-                indexI += 1
-            indexJ += 1
-        return indexI == len(s)
-
-
+        index = 0
+        for char in t:
+            if index < len(s) and s[index] == char:
+                index += 1
+        return index == len(s)
