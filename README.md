@@ -441,6 +441,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2235-add-two-integers](https://github.com/priyanshu172004/LeetCode/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priyanshu172004/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/priyanshu172004/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/priyanshu172004/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
