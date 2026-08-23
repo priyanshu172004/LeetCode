@@ -89,6 +89,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1768-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -438,6 +439,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/priyanshu172004/LeetCode/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -460,6 +462,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0860-lemonade-change](https://github.com/priyanshu172004/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/priyanshu172004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -792,4 +795,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
