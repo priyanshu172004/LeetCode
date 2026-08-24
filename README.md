@@ -219,6 +219,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2678-number-of-senior-citizens](https://github.com/priyanshu172004/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/priyanshu172004/LeetCode/tree/master/3379-transformed-array) |
@@ -325,6 +326,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/priyanshu172004/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/priyanshu172004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu172004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -415,6 +417,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshu172004/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/priyanshu172004/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
@@ -444,6 +447,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/priyanshu172004/LeetCode/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priyanshu172004/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/priyanshu172004/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
