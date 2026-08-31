@@ -206,6 +206,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanshu172004/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
