@@ -4,15 +4,13 @@ class Solution:
         if n == 1:
             return True
 
-        for i in range(1, len(nums)):
-            if nums[i] < nums[i - 1]:
-                break
-            if i == n - 1:
-                return True
-        
-        for i in range(1, len(nums)):
+        is_Dec = True
+        is_Inc = True
+        for i in range(1, n):
+            if not is_Dec and not is_Inc:
+                return False
             if nums[i] > nums[i - 1]:
-                break
-            if i == n - 1:
-                return True
-        return False 
+                is_Dec = False 
+            if nums[i] < nums[i - 1]:
+                is_Inc = False
+        return is_Inc or is_Dec
