@@ -7,8 +7,8 @@ class Solution:
         is_Dec = True
         is_Inc = True
         for i in range(1, n):
-            if not is_Dec and not is_Inc:
-                return False
+            # if not is_Dec and not is_Inc:
+            #     return False
             if nums[i] > nums[i - 1]:
                 is_Dec = False 
             if nums[i] < nums[i - 1]:
