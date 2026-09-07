@@ -205,6 +205,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanshu172004/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -328,6 +329,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -453,6 +455,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0973-k-closest-points-to-origin](https://github.com/priyanshu172004/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/priyanshu172004/LeetCode/tree/master/2235-add-two-integers) |
@@ -589,6 +592,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshu172004/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/priyanshu172004/LeetCode/tree/master/2404-most-frequent-even-element) |
