@@ -13,7 +13,7 @@ class Solution:
                 if char in hashMap and hashMap[char] > 0:
                     hashMap[char] = hashMap.get(char) - 1
                     count += 1
-                if countLength == count:
-                    summ += countLength
+                    if countLength == count:
+                        summ += countLength
             hashMap = temp.copy()
         return summ
