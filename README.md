@@ -82,6 +82,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0680-valid-palindrome-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0929-unique-email-addresses](https://github.com/priyanshu172004/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1143-longest-common-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshu172004/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1408-string-matching-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1408-string-matching-in-an-array) |
@@ -200,6 +201,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0973-k-closest-points-to-origin](https://github.com/priyanshu172004/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/priyanshu172004/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/priyanshu172004/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -327,6 +329,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/priyanshu172004/LeetCode/tree/master/0929-unique-email-addresses) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshu172004/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -592,6 +595,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0229-majority-element-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshu172004/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
