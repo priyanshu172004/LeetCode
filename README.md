@@ -221,6 +221,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1800-maximum-ascending-subarray-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/priyanshu172004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/priyanshu172004/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/priyanshu172004/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -381,6 +382,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -843,4 +845,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
