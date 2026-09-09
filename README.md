@@ -99,6 +99,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2264-largest-3-same-digit-number-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2490-circular-sentence](https://github.com/priyanshu172004/LeetCode/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/priyanshu172004/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2833-furthest-point-from-origin](https://github.com/priyanshu172004/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/3110-score-of-a-string) |
