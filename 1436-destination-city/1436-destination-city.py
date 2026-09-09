@@ -15,3 +15,4 @@ class Solution:
             if not found_next:
                 return end
         return ""
+        
