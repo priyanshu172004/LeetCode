@@ -92,6 +92,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/priyanshu172004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/priyanshu172004/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
