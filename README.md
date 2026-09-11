@@ -95,6 +95,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/priyanshu172004/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/priyanshu172004/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -351,6 +352,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/priyanshu172004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/priyanshu172004/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -618,6 +620,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/priyanshu172004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/priyanshu172004/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/priyanshu172004/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/priyanshu172004/LeetCode/tree/master/2833-furthest-point-from-origin) |
