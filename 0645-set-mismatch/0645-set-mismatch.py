@@ -10,5 +10,6 @@ class Solution:
         for i in range(1, len(nums) + 1):
             if i not in hashSet:
                 result.append(i)
+                break
         return result
         
