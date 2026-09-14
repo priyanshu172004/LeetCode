@@ -6,5 +6,4 @@ class Solution:
         for i in range(len(s)):
             if s[i] in hashMap and hashMap[s[i]] == 1:
                 return i
-                break
         return -1
