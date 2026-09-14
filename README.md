@@ -185,6 +185,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0496-next-greater-element-i](https://github.com/priyanshu172004/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/priyanshu172004/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/priyanshu172004/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/priyanshu172004/LeetCode/tree/master/0704-binary-search) |
@@ -338,6 +339,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0496-next-greater-element-i](https://github.com/priyanshu172004/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/priyanshu172004/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/priyanshu172004/LeetCode/tree/master/0929-unique-email-addresses) |
@@ -381,6 +383,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0347-top-k-frequent-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/priyanshu172004/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/priyanshu172004/LeetCode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -548,6 +551,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu172004/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshu172004/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/priyanshu172004/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyanshu172004/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/priyanshu172004/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/priyanshu172004/LeetCode/tree/master/0868-binary-gap) |
