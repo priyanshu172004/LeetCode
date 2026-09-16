@@ -1,7 +1,7 @@
 class Solution:
     def timeRequiredToBuy(self, tickets: List[int], k: int) -> int:
         queue = deque()
-        
+
         for i in range(len(tickets)):
             queue.append(i)
 
