@@ -104,6 +104,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/priyanshu172004/LeetCode/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/priyanshu172004/LeetCode/tree/master/2490-circular-sentence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -246,6 +247,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2404-most-frequent-even-element](https://github.com/priyanshu172004/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/priyanshu172004/LeetCode/tree/master/2418-sort-the-people) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -378,6 +380,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/priyanshu172004/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/priyanshu172004/LeetCode/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -417,6 +420,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2418-sort-the-people](https://github.com/priyanshu172004/LeetCode/tree/master/2418-sort-the-people) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/priyanshu172004/LeetCode/tree/master/3731-find-missing-elements) |
