@@ -887,9 +887,11 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyanshu172004/LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyanshu172004/LeetCode/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
