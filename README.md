@@ -228,6 +228,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/priyanshu172004/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/priyanshu172004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1701-average-waiting-time](https://github.com/priyanshu172004/LeetCode/tree/master/1701-average-waiting-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanshu172004/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -447,6 +448,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0682-baseball-game](https://github.com/priyanshu172004/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/priyanshu172004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0867-transpose-matrix) |
+| [1701-average-waiting-time](https://github.com/priyanshu172004/LeetCode/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/priyanshu172004/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/priyanshu172004/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
