@@ -215,6 +215,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1002-find-common-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/priyanshu172004/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/priyanshu172004/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -359,6 +360,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/priyanshu172004/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/priyanshu172004/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -408,6 +410,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshu172004/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/priyanshu172004/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -828,6 +831,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -889,9 +893,11 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | ------- |
 | [0075-sort-colors](https://github.com/priyanshu172004/LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/priyanshu172004/LeetCode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
