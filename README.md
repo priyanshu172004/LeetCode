@@ -82,6 +82,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0649-dota2-senate](https://github.com/priyanshu172004/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshu172004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0791-custom-sort-string](https://github.com/priyanshu172004/LeetCode/tree/master/0791-custom-sort-string) |
 | [0929-unique-email-addresses](https://github.com/priyanshu172004/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1002-find-common-characters) |
 | [1143-longest-common-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -361,6 +362,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0645-set-mismatch](https://github.com/priyanshu172004/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
+| [0791-custom-sort-string](https://github.com/priyanshu172004/LeetCode/tree/master/0791-custom-sort-string) |
 | [0929-unique-email-addresses](https://github.com/priyanshu172004/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
@@ -410,6 +412,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/priyanshu172004/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0791-custom-sort-string](https://github.com/priyanshu172004/LeetCode/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/priyanshu172004/LeetCode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0912-sort-an-array) |
