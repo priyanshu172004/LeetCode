@@ -98,6 +98,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/priyanshu172004/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu172004/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/priyanshu172004/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
@@ -236,6 +237,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1701-average-waiting-time](https://github.com/priyanshu172004/LeetCode/tree/master/1701-average-waiting-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanshu172004/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu172004/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -282,6 +284,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu172004/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/priyanshu172004/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
