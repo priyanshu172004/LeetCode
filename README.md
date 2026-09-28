@@ -217,6 +217,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0929-unique-email-addresses](https://github.com/priyanshu172004/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshu172004/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/priyanshu172004/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
@@ -282,6 +283,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0304-range-sum-query-2d-immutable](https://github.com/priyanshu172004/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -371,6 +373,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
 | [0791-custom-sort-string](https://github.com/priyanshu172004/LeetCode/tree/master/0791-custom-sort-string) |
 | [0929-unique-email-addresses](https://github.com/priyanshu172004/LeetCode/tree/master/0929-unique-email-addresses) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
