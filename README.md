@@ -194,6 +194,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0485-max-consecutive-ones](https://github.com/priyanshu172004/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/priyanshu172004/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0518-coin-change-ii) |
+| [0554-brick-wall](https://github.com/priyanshu172004/LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/priyanshu172004/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -366,6 +367,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/priyanshu172004/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyanshu172004/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/priyanshu172004/LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/priyanshu172004/LeetCode/tree/master/0645-set-mismatch) |
