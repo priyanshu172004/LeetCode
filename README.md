@@ -910,6 +910,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu172004/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0229-majority-element-ii) |
 ## Game Theory
 |  |
 | ------- |
