@@ -10,7 +10,7 @@ class Solution:
             hashMap1[num] = hashMap1.get(num, 0) + 1
             hashMap2[num] -= 1
             
-            if hashMap1[num] * 2 > mid + 1 and hashMap2[num] * 2 > len(nums) - mid - 1:
+            if hashMap1[num] > (mid + 1) // 2 and hashMap2[num] > (len(nums) - mid - 1) // 2:
                 return mid
         return -1
 
