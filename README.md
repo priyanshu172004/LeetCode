@@ -234,6 +234,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1436-destination-city](https://github.com/priyanshu172004/LeetCode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/priyanshu172004/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/priyanshu172004/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -289,6 +290,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/priyanshu172004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu172004/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -334,6 +336,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1137-n-th-tribonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/priyanshu172004/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
@@ -537,6 +540,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/priyanshu172004/LeetCode/tree/master/2235-add-two-integers) |
