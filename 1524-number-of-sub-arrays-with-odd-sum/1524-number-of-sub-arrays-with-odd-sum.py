@@ -3,7 +3,7 @@ class Solution:
         res = odd = even = 0
         for x in arr:
             even += 1
-            if x % 2:
+            if x % 2 == 1:
                 odd, even = even, odd
             res = (res + odd) % 1000000007             
         return res            
