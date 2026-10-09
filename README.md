@@ -252,6 +252,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/priyanshu172004/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/priyanshu172004/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/priyanshu172004/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/priyanshu172004/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/priyanshu172004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -401,6 +402,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/priyanshu172004/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/priyanshu172004/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -545,6 +547,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/priyanshu172004/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2235-add-two-integers](https://github.com/priyanshu172004/LeetCode/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -691,6 +694,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/priyanshu172004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/priyanshu172004/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/priyanshu172004/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/priyanshu172004/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/priyanshu172004/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -916,6 +920,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Number Theory
 |  |
 | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/priyanshu172004/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Geometry
 |  |
