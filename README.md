@@ -106,6 +106,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/priyanshu172004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2211-count-collisions-on-a-road](https://github.com/priyanshu172004/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -341,6 +342,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/priyanshu172004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/priyanshu172004/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -607,6 +609,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0078-subsets](https://github.com/priyanshu172004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/priyanshu172004/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -623,6 +626,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0868-binary-gap](https://github.com/priyanshu172004/LeetCode/tree/master/0868-binary-gap) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/priyanshu172004/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -951,4 +955,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/priyanshu172004/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Bitmask
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
