@@ -254,6 +254,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1929-concatenation-of-array](https://github.com/priyanshu172004/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/priyanshu172004/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/priyanshu172004/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2017-grid-game](https://github.com/priyanshu172004/LeetCode/tree/master/2017-grid-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/priyanshu172004/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/priyanshu172004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -300,6 +301,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/priyanshu172004/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1991-find-the-middle-index-in-array](https://github.com/priyanshu172004/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2017-grid-game](https://github.com/priyanshu172004/LeetCode/tree/master/2017-grid-game) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshu172004/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -517,6 +519,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0741-cherry-pickup](https://github.com/priyanshu172004/LeetCode/tree/master/0741-cherry-pickup) |
 | [0867-transpose-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [2017-grid-game](https://github.com/priyanshu172004/LeetCode/tree/master/2017-grid-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
