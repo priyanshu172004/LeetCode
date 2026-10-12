@@ -249,6 +249,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu172004/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-find-the-highest-altitude](https://github.com/priyanshu172004/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/priyanshu172004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -553,6 +554,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/priyanshu172004/LeetCode/tree/master/1927-sum-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/priyanshu172004/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2235-add-two-integers](https://github.com/priyanshu172004/LeetCode/tree/master/2235-add-two-integers) |
