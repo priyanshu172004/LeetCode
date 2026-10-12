@@ -77,6 +77,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/priyanshu172004/LeetCode/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/priyanshu172004/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/priyanshu172004/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyanshu172004/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -377,6 +378,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/priyanshu172004/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/priyanshu172004/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyanshu172004/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -778,6 +780,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0076-minimum-window-substring](https://github.com/priyanshu172004/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyanshu172004/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshu172004/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
