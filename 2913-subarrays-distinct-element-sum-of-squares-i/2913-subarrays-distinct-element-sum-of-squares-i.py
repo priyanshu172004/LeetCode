@@ -4,6 +4,9 @@ class Solution:
         for i in range(len(nums)):
             hashSet = set()
             for j in range(i, len(nums)):
-                hashSet.add(nums[j])
+                temp = nums[i: j + 1]
+                for num in temp:
+                    hashSet.add(num)
                 summ += len(hashSet) ** 2
+            print(hashSet)
         return summ
