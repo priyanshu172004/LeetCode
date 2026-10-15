@@ -271,6 +271,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2678-number-of-senior-citizens](https://github.com/priyanshu172004/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/priyanshu172004/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyanshu172004/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -417,6 +418,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2404-most-frequent-even-element](https://github.com/priyanshu172004/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/priyanshu172004/LeetCode/tree/master/2418-sort-the-people) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/priyanshu172004/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyanshu172004/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -835,6 +837,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyanshu172004/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu172004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
@@ -984,4 +987,8 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyanshu172004/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
