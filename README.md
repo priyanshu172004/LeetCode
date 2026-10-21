@@ -120,6 +120,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2833-furthest-point-from-origin](https://github.com/priyanshu172004/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/3110-score-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/priyanshu172004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
