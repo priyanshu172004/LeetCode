@@ -14,7 +14,7 @@ class Solution:
                 List.append(nums[i])
 
         maxx = List[0]
-        for i in range(1, len(List)):
+        for i in range(len(List)):
             maxx = maxx & List[i]
         return maxx
 
