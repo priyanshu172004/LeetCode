@@ -12,9 +12,10 @@ class Solution:
         for i in range(n):
             if nums[i] != i:
                 List.append(nums[i])
+        print(List)
 
         maxx = List[0]
-        for i in range(len(List)):
+        for i in range(1, len(List)):
             maxx = maxx & List[i]
         return maxx
 
