@@ -225,6 +225,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshu172004/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/priyanshu172004/LeetCode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/priyanshu172004/LeetCode/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/priyanshu172004/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
@@ -531,6 +532,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0741-cherry-pickup](https://github.com/priyanshu172004/LeetCode/tree/master/0741-cherry-pickup) |
 | [0867-transpose-matrix](https://github.com/priyanshu172004/LeetCode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/priyanshu172004/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/priyanshu172004/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2017-grid-game](https://github.com/priyanshu172004/LeetCode/tree/master/2017-grid-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -844,6 +846,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0322-coin-change](https://github.com/priyanshu172004/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/priyanshu172004/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyanshu172004/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/priyanshu172004/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/priyanshu172004/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/priyanshu172004/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
