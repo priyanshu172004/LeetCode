@@ -7,9 +7,9 @@ class Solution:
                 temp.append("#")
             grid.append(temp)
         
-        for i in range(1):
-            for j in range(n):
-                grid[i][j] = "."
+        
+        for j in range(n):
+            grid[0][j] = "."
         for i in range(m):
             grid[i][n - 1] = "."
         
