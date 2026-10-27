@@ -20,9 +20,3 @@ class Solution:
                 ans += grid[i][j]
             result.append(ans)
         return result
-
-
-
-
-
-        
