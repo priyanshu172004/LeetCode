@@ -198,6 +198,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu172004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/priyanshu172004/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu172004/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -569,6 +570,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0224-basic-calculator](https://github.com/priyanshu172004/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/priyanshu172004/LeetCode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/priyanshu172004/LeetCode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/priyanshu172004/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/priyanshu172004/LeetCode/tree/master/0973-k-closest-points-to-origin) |
