@@ -40,6 +40,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0680-valid-palindrome-ii](https://github.com/priyanshu172004/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/priyanshu172004/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/priyanshu172004/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -239,6 +240,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1254-number-of-closed-islands](https://github.com/priyanshu172004/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/priyanshu172004/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -469,6 +471,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1051-height-checker](https://github.com/priyanshu172004/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/priyanshu172004/LeetCode/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/priyanshu172004/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/priyanshu172004/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu172004/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -501,6 +504,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0658-find-k-closest-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/priyanshu172004/LeetCode/tree/master/0704-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/priyanshu172004/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/priyanshu172004/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
