@@ -4,22 +4,37 @@ class Solution:
         right = 1
         maxx = 1
 
-        countInc = 1
-        countDec = 1
+        count = 1
+        isIncreasing = False
+        isDecreasing = False
 
         while right < len(nums):
             if nums[right] > nums[left]:
-                countInc += 1
-                countDec = 1
-            elif nums[right] < nums[left]:
-                countDec += 1
-                countInc = 1
-            else:
-                countInc = 1
-                countDec = 1
+                if isIncreasing:
+                    count += 1
+                else:
+                    count = 2
 
-            maxx = max(maxx, countInc, countDec)
+                isIncreasing = True
+                isDecreasing = False
+
+            elif nums[right] < nums[left]:
+                if isDecreasing:
+                    count += 1
+                else:
+                    count = 2
+
+                isDecreasing = True
+                isIncreasing = False
+
+            else:
+                count = 1
+                isIncreasing = False
+                isDecreasing = False
+
+            maxx = max(maxx, count)
+
             left = right
             right += 1
-            
+
         return maxx
