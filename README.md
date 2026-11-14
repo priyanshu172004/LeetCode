@@ -286,6 +286,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/priyanshu172004/LeetCode/tree/master/3151-special-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/priyanshu172004/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -323,6 +324,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1991-find-the-middle-index-in-array](https://github.com/priyanshu172004/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2017-grid-game](https://github.com/priyanshu172004/LeetCode/tree/master/2017-grid-game) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/priyanshu172004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshu172004/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu172004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -829,6 +831,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0658-find-k-closest-elements](https://github.com/priyanshu172004/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshu172004/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
