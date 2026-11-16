@@ -17,7 +17,3 @@ class Solution:
 
             s = "".join(temp)
         return s
-
-            
-
-
