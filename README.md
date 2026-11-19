@@ -280,6 +280,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priyanshu172004/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/priyanshu172004/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2678-number-of-senior-citizens](https://github.com/priyanshu172004/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/priyanshu172004/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -487,6 +488,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/priyanshu172004/LeetCode/tree/master/2418-sort-the-people) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/priyanshu172004/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/priyanshu172004/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu172004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshu172004/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -627,6 +629,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2078-two-furthest-houses-with-different-colors](https://github.com/priyanshu172004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priyanshu172004/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/priyanshu172004/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/priyanshu172004/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/priyanshu172004/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshu172004/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
