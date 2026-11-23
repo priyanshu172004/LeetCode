@@ -1,10 +1,10 @@
 class Solution:
     def checkString(self, s: str) -> bool:
-        hashSet = set()
-        for char in s:
+        if "a" in s:
+            idx = s.rfind("a")
+        else:
+            return True
+        for char in s[0:idx]:
             if char == "b":
-                hashSet.add(char)
-            elif char == "a":
-                if "b" in hashSet:
-                    return False
-        return True     
+                return False
+        return True
