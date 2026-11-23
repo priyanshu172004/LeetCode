@@ -242,6 +242,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1207-unique-number-of-occurrences](https://github.com/priyanshu172004/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/priyanshu172004/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/priyanshu172004/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1352-product-of-the-last-k-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu172004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshu172004/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshu172004/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -317,6 +318,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu172004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/priyanshu172004/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -591,6 +593,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0973-k-closest-points-to-origin](https://github.com/priyanshu172004/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyanshu172004/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/priyanshu172004/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu172004/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -912,12 +915,14 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/priyanshu172004/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/priyanshu172004/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/priyanshu172004/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/priyanshu172004/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/priyanshu172004/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/priyanshu172004/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Graph Theory
 |  |
 | ------- |
