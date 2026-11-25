@@ -308,6 +308,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/priyanshu172004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshu172004/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/priyanshu172004/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/priyanshu172004/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
@@ -452,6 +453,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [3713-longest-balanced-substring-i](https://github.com/priyanshu172004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu172004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/priyanshu172004/LeetCode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -521,6 +523,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshu172004/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/priyanshu172004/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/priyanshu172004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3934-smallest-unique-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Interactive
 |  |
 | ------- |
@@ -982,6 +985,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [0535-encode-and-decode-tinyurl](https://github.com/priyanshu172004/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/priyanshu172004/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/priyanshu172004/LeetCode/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -1055,4 +1059,12 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/priyanshu172004/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/priyanshu172004/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
