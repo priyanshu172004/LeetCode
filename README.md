@@ -545,6 +545,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2390-removing-stars-from-a-string](https://github.com/priyanshu172004/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/priyanshu172004/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu172004/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [3360-stone-removal-game](https://github.com/priyanshu172004/LeetCode/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/priyanshu172004/LeetCode/tree/master/3379-transformed-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/priyanshu172004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
@@ -608,6 +609,7 @@ Solutions for LeetCode Problems (Easy, Medium, Hard)
 | [2235-add-two-integers](https://github.com/priyanshu172004/LeetCode/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu172004/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshu172004/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/priyanshu172004/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu172004/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu172004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priyanshu172004/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
